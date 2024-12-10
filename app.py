@@ -12,7 +12,7 @@ def run_script():
     from twilio.rest import Client
 
     account_sid = "AC92208f644247640d7c087a7fe2b8c2b6"
-    auth_token = "09e03ff13455728074ab08164749737e"
+    auth_token = "3f9a94bb978a7069603c49461c14fdfb"
 
 
     client = Client(account_sid, auth_token)
